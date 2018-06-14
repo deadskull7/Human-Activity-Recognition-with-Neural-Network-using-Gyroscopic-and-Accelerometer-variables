@@ -1,0 +1,1 @@
+# Human-Activity-Recognition-with-Neural-Network-using-Gyroscopic-and-Accelerometer-variables
