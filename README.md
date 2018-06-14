@@ -21,6 +21,7 @@ alt="Video of the experiment" width="400" height="300" border="10" /></a>
 
 ![feature_distribution1.png](feature_distribution1.png) 
 ![feature_distribution2.png](feature_distribution2.png)
+![Research_paper_implementation.png](Research_paper_implementation.png) ![My_own_implementation](My_own_implementation.png)
 ![accuracy](accuracy.png)
 ![loss](loss.png)
 
