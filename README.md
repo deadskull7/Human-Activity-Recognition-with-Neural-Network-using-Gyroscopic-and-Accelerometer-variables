@@ -19,7 +19,8 @@ alt="Video of the experiment" width="400" height="300" border="10" /></a>
 
 **That said, I will use the almost raw data: only the gravity effect has been filtered out of the accelerometer  as a preprocessing step for another 3D feature as an input to help learning.** 
 
-![feature_distribution1.png]("feature_distribution1.png") ![feature_distribution2.png]("feature_distribution2.png)
+![feature_distribution1.png]("feature_distribution1.png") 
+![feature_distribution2.png]("feature_distribution2.png")
 
 ## References
 
