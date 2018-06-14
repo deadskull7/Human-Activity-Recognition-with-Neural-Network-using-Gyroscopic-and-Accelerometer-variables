@@ -24,6 +24,15 @@ alt="Video of the experiment" width="400" height="300" border="10" /></a>
 ![accuracy](accuracy.png)
 ![loss](loss.png)
 
+## Attribute Information:
+
+**For each record in the dataset it is provided:
+- Triaxial acceleration from the accelerometer (total acceleration) and the estimated body acceleration.
+- Triaxial Angular velocity from the gyroscope.
+- A 561-feature vector with time and frequency domain variables.
+- Its activity label.
+- An identifier of the subject who carried out the experiment. **
+
 ## References
 
 The [dataset](https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) can be found on the UCI Machine Learning Repository. 
