@@ -10,7 +10,7 @@
 alt="Video of the experiment" width="400" height="300" border="10" /></a>
   <a href="https://youtu.be/XOEN9W05_4A"><center>[Watch video]</center></a>
 </p>
-
+ 
 ## Details:
 
 **Artificial Neural Network with a validation accuracy of 97.98 % and a precision of 95% was achieved from the data to learn (as a cellphone attached on the waist) to recognise the type of activity that the user is doing. My work is inspired from guillaume-chevalier/LSTM-Human-Activity-Recognition but he used RNN-LSTM to recognize the activity whereas I used ANN for the same. And had achieved a better confusion matrix as well as the validation accuracy than the RNN-LSTM. Bidirectional LSTM on the other hand gave around 94 % but which is still less. The above VALIDATION ACCURACY is also best on KAGGLE.
