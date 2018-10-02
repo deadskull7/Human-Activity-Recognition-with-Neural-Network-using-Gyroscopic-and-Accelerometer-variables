@@ -29,7 +29,7 @@ The approach might be little different.**
 ![accuracy](accuracy.png)
 ![loss](loss.png)
 
-## Attribute Information:
+## Information of Attributes:
 
 **For each record in the dataset it is provided:**
 - Triaxial acceleration from the accelerometer (total acceleration) and the estimated body acceleration.
